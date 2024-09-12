@@ -1,8 +1,6 @@
-# Precix
+![Precix Logo](logo.png)
 
 **Precix** is a modern web application for tracking workouts like running and cycling. It features an interactive map to log and visualize workouts with dynamic forms tailored to each activity type.
-
-![Precix Logo](logo.png)
 
 ## Features
 
