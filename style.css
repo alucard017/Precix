@@ -43,7 +43,7 @@ a:visited {
 /* SIDEBAR */
 .sidebar {
   flex-basis: 50rem;
-  background-color: var(--color-dark--1);
+  background-image: linear-gradient(to bottom , #191714, #2234AE);
   padding: 3rem 5rem 4rem 5rem;
   display: flex;
   flex-direction: column;
