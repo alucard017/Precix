@@ -1,10 +1,20 @@
 {
-  "name": "Precix",
+  "name": "precix",
   "version": "1.0.0",
-  "description": "",
+  "description": "a modern web application for tracking workouts like running and cycling",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "private": true
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alucard017/Precix.git"
+  },
+  "author": "Apurba Sundar Nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alucard017/Precix/issues"
+  },
+  "homepage": "https://github.com/alucard017/Precix#readme"
 }
