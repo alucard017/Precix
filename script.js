@@ -47,8 +47,6 @@ class Cycling extends Workout{
     }
 }
 
-// const run1 = new Running([39,-12],5.2,24,178);
-// const run2 = new Cycling([39,-12],5.2,24,178);
 
 class App{
     #map;
